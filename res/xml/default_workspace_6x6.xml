@@ -78,13 +78,13 @@
 
     <!-- Screen 1 -->
     <appwidget
-        launcher:packageName="com.crdroid.music"
-        launcher:className="com.kabouzeid.gramophone.appwidgets.AppWidgetBig"
+        launcher:packageName="org.lineageos.twelve"
+        launcher:className="org.lineageos.twelve.ui.widgets.NowPlayingAppWidgetProvider"
         launcher:screen="1"
         launcher:x="0"
         launcher:y="0"
         launcher:spanX="6"
-        launcher:spanY="2" />
+        launcher:spanY="1" />
 
     <resolve
         launcher:screen="1"
